@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ayush-raj8.github.io/static/css/main.0df721ac.css",
+    "main.js": "/ayush-raj8.github.io/static/js/main.2623702a.js",
+    "static/js/787.dbbd0357.chunk.js": "/ayush-raj8.github.io/static/js/787.dbbd0357.chunk.js",
+    "static/media/pic.png": "/ayush-raj8.github.io/static/media/pic.5be8fda2576558f025b5.png",
+    "index.html": "/ayush-raj8.github.io/index.html",
+    "main.0df721ac.css.map": "/ayush-raj8.github.io/static/css/main.0df721ac.css.map",
+    "main.2623702a.js.map": "/ayush-raj8.github.io/static/js/main.2623702a.js.map",
+    "787.dbbd0357.chunk.js.map": "/ayush-raj8.github.io/static/js/787.dbbd0357.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0df721ac.css",
+    "static/js/main.2623702a.js"
+  ]
+}
